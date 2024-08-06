@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter and Android**
 
 - 🌱 I’m currently learning **IOS**
 
