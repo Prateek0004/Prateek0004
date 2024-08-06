@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek0004&label=Profile%20views&color=0e75b6&style=flat" alt="prateek0004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek0004" alt="prateek0004" /></a> </p>
+
 
 - 🔭 I’m currently working on **Flutter**
 
