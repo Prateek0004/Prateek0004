@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **IOS**
 
-- 💬 Ask me about **Flutter and Android I will try to give answer**
+- 💬 Ask me anything about **Flutter and Android **
 
 - 📫 How to reach me **prateekupadhyay7376@gmail.com**
 
